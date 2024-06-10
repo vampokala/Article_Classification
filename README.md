@@ -90,16 +90,4 @@ To reproduce the results or apply the model to new data:
    jupyter notebook Case_Study_Articles_Categorization.ipynb
    ```
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to all contributors and the open-source community for their support and resources.
-
----
-
-This `README.md` provides a comprehensive overview of the project, from data preprocessing to model evaluation and future work. It should serve as a useful guide for anyone looking to understand or extend this work.
-
-If you have any additional details or specific sections to include, feel free to let me know!
